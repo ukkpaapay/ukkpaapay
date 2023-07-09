@@ -1,16 +1,40 @@
-### Hi there 👋
+<p align="center">
+<img src="https://spicy-tails.net/_assets/images/press/press_saw_kv.png" alt="Banner">
+</p>
 
-<!--
-**ukkpaapay/ukkpaapay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ukkpaapay
 
-Here are some ideas to get you started:
+A front end developer from Thailand, based in Phuket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+![My Skills](https://skillicons.dev/icons?i=postman,vscode,github)
+
+
+## 🛠️ My Skills
+
+
+
+
+## Programming Languages
+![My Skills](https://skillicons.dev/icons?i=js,ts,dart)
+
+
+## Framework
+![My Skills](https://skillicons.dev/icons?i=react,next,flutter)
+
+
+
+## CSS Framework
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)
+
+
+----
+
+## Stats
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ukkpaapay&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukkpaapay&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+
+![](https://github-profile-trophy.vercel.app/?username=ukkpaapay&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
