@@ -2,7 +2,7 @@
 <img src="https://spicy-tails.net/_assets/images/press/press_saw_kv.png" alt="Banner">
 </p>
 
-# Hi, I'm ukkpaapay  ![](https://media.tenor.com/dvbo2D2wDCMAAAAi/spook-holo.gif =75x75)
+# Hi, I'm ukkpaapay  ![](https://media.tenor.com/dvbo2D2wDCMAAAAi/spook-holo.gif)
 
 
 A front end developer from Thailand, based in Phuket 
@@ -12,7 +12,7 @@ A front end developer from Thailand, based in Phuket
 ![My Skills](https://skillicons.dev/icons?i=postman,vscode,github)
 
 
-## 🛠️ My Skills   ![](https://media.tenor.com/d6NXeiYPC5gAAAAi/holo-spice-and-wolf.gif =75x75)
+## 🛠️ My Skills   ![](https://media.tenor.com/d6NXeiYPC5gAAAAi/holo-spice-and-wolf.gif)
 
 
 ## Programming Languages
@@ -30,7 +30,7 @@ A front end developer from Thailand, based in Phuket
 
 ----
 
-## Stats ![](https://media.tenor.com/lOCr3pcp4AcAAAAi/holo-spice-and-wolf.gif =75x75)
+## Stats    ![](https://media.tenor.com/lOCr3pcp4AcAAAAi/holo-spice-and-wolf.gif )
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ukkpaapay&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukkpaapay&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
