@@ -32,7 +32,7 @@ A front end developer from Thailand, based in Phuket
 
 ## Stats    ![](https://media.tenor.com/lOCr3pcp4AcAAAAi/holo-spice-and-wolf.gif )
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ukkpaapay&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukkpaapay&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ukkpaapay&theme=material-palenight&hide_border=false" alt="ukkpaapay" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukkpaapay&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ukkpaapay" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=ukkpaapay&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
